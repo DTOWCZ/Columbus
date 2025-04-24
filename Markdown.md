@@ -10,6 +10,7 @@ Univerzální jazyk / nástroj v Prompt Engineeringu, který je potřebný k vyt
  ![](https://img.shields.io/github/stars/benweet/stackedit.svg) ![](https://img.shields.io/github/forks/benweet/stackedit.svg) ![](https://img.shields.io/github/tag/benweet/stackedit.svg) ![](https://img.shields.io/github/release/benweet/stackedit.svg) ![](https://img.shields.io/github/issues/benweet/stackedit.svg) ![](https://img.shields.io/bower/v/stackedit.svg)
   - Open-Source: http://editor.md.ipandao.com/en.html
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+  - Visual Studio Code: https://code.visualstudio.com/
 
 ___
 # Nadpis 1
@@ -249,5 +250,5 @@ China-->Andrew: How are you?
 Andrew->>China: I am good thanks!
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDMwNzA3OTFdfQ==
+eyJoaXN0b3J5IjpbMjE2MDY4OTUsLTE2MDMwNzA3OTFdfQ==
 -->
