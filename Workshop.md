@@ -22,10 +22,10 @@
 	- Ikona (nepovinná)
 	- Jméno (CZ + EN)
 	- Popis služby (CZ + EN)
-	- Category  (zatím defaultně na Personal)
-	- Volitelně: Co-editing members ( pro spolupráci na AI Agentovi) 
+	- Category  (Personal)
+	- Co-editing members (volitelně pro spolupráci na AI Agentovi) 
 
-4. ### **Model a Prompt (Reply Settings)**
+4. ### **Reply Settings (Model a Prompt)**
 	- Vybrat model (Gemini / GPT)
 	> Gemini = Google, lepší pro tabulky; GPT = OpenAI, lepší pro přirozený jazyk
 	- Ukázat pole pro prompt
@@ -78,6 +78,6 @@
   - https://github.com/AImarkdown/main/tree/main/examples
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjYyNjg3OCwxMDYzNjM3MzMsMjAzOD
-kwMTI0Ml19
+eyJoaXN0b3J5IjpbNDExMzI1MDQ4LDEwNjM2MzczMywyMDM4OT
+AxMjQyXX0=
 -->
