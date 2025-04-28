@@ -7,9 +7,9 @@
 
 ```yaml
 title: 📝 Easy Memo - Základní příklad AImarkdown
-author: J. Jones
-company: Big Company
-company_url: https://example.com
+author: Dominik Žižlavský
+company: Wistron InfoComm (Czech), s.r.o.
+company_url: https://www.wistron.cz/
 
 # Pokyny pro AI, aby dodržovala tato instrukce (verze 2024.02.03)
 
@@ -85,6 +85,6 @@ Web: [company_url]
 :::
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM0NzE3MDEsMTMzMjkyODc1OSwtMz
+eyJoaXN0b3J5IjpbLTE5MDUwNTQyOTAsMTMzMjkyODc1OSwtMz
 IzNTU2MTIsLTE3NDgwMzI2OTNdfQ==
 -->
