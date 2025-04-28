@@ -3,6 +3,7 @@
 ### Markdown Code
 ```yaml
 title: Point Form Responder - Odpovídač v bodech
+version: 0.6
 author: Rob McCormack
 
 # Pokyny pro AI, aby dodržovala tyto instrukce (verze 2024.01.30):
@@ -46,6 +47,6 @@ point_form_format:
   - trigger: /p
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTg1Mjg2ODYsLTk3Mzg5NjUyNSwxMD
+eyJoaXN0b3J5IjpbLTE1MzQ0MTU2NzQsLTk3Mzg5NjUyNSwxMD
 M1NjgwNThdfQ==
 -->
