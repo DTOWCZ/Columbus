@@ -35,9 +35,9 @@
 	> Př.: směrnice, tabulky, manuály
 
 6. ### **Agent Tools (volitelné)**
-	- Ukázat co je Plugin a Code Interpreter (zmínit možnosti spuštění python kódu v pozadí a díky toho generovat grafy atd..)
+	- Code Interpreter (zmínit možnosti spuštění python kódu v pozadí a díky toho generovat grafy atd..)
 	- Capture Web Content (nová funkce pro taháni informací z internetu -   pouze ověřené weby jako .gov nebo .org)
-	- Plugin = napojení na API (např. docházka), Code Interpreter = výpočty, grafy
+	- Plugin → komunikace pomocí API
 	- Logic DB + API nastavení (pro pokročilé)
 	> Logic DB = pravidla, např. "neobvyklé přihlášení = riziko"
 
@@ -77,6 +77,6 @@
   - https://github.com/AImarkdown/main/tree/main/examples
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NDY4ODgxNywxMDYzNjM3MzMsMjAzOD
-kwMTI0Ml19
+eyJoaXN0b3J5IjpbLTExNjI4MTEyNTUsMTA2MzYzNzMzLDIwMz
+g5MDEyNDJdfQ==
 -->
