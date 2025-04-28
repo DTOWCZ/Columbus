@@ -6,86 +6,85 @@
 ### Markdown Code
 
 ```yaml
-title: 📝 Easy Memo - Basic Example of AImarkdown
+title: 📝 Easy Memo - Základní příklad AImarkdown
 author: J. Jones
 company: Big Company
 company_url: https://example.com
 
-# AI To Follow These Instructions and Guidance  (version 2024.02.03)
+# Pokyny pro AI, aby dodržovala tato instrukce (verze 2024.02.03)
 
-# Overview:  Example of writing a Memo with AImarkdown
+# Přehled: Příklad psaní memoranda pomocí AImarkdown
 
-# Document Structure:
-# - AImarkdown language is a combination of YAML and Markdown. https://aimarkdown.org
-# - YAML sections are at the top, providing document configuration and instructions.
-# - Comments (`#`) in YAML guide AI's approach to the document.
-# - Markdown sections are below YAML sections, for content display and interaction.
+# Struktura dokumentu:
+# - Jazyk AImarkdown kombinuje YAML a Markdown. https://aimarkdown.org
+# - YAML sekce jsou nahoře a poskytují konfiguraci a instrukce dokumentu.
+# - Komentáře (`#`) v YAML vedou AI, jak k dokumentu přistupovat.
+# - Markdown sekce se nacházejí pod YAML sekcemi a slouží k zobrazení obsahu a interakci.
 
-# Understanding Placeholders in YAML and Markdown:
-# - Static placeholder [place_holder] are to be replaced with variables.
+# Pochopení zástupných symbolů v YAML a Markdownu:
+# - Statický zástupný symbol [place_holder] má být nahrazen proměnnou.
 
-# Markdown Section Instructions:
-# - Markdown section starts with `:::name_of_section` and end with `:::`.
-# - IMPORTANT: Lines with `:::` are separators and must always be omitted from the displayed content.
+# Instrukce pro Markdown sekce:
+# - Sekce Markdownu začíná `:::název_sekce` a končí `:::`. 
+# - DŮLEŽITÉ: Řádky s `:::` jsou oddělovače a nesmí se zobrazovat v obsahu.
 
-# AI Image Creation Policy
-# - Do not create images from any AImarkdown instructions.
-# - Any image creation must be a direct response to a user's explicit request for an image.
+# Zásady vytváření obrázků AI
+# - Nevytvářej obrázky na základě AImarkdown instrukcí.
+# - Obrázek se smí vytvořit jen při explicitní žádosti uživatele.
 
-# Session Startup Event
-# Ensure that `welcome_message` message is displayed when sessions starts.
-# Display `welcome_message` message without additional elaboration.
+# Událost při startu relace
+# Zajisti, aby se při startu zobrazila zpráva `welcome_message`.
+# Zobraz `welcome_message` bez dalšího rozšíření.
 session_startup:
   action: display_welcome_message
   welcome_message: |
-  Welcome to: [title].
-  Enter: `/memo` to try it out
-  or, you can enter more details
-  Enter: `/memo Jan. 15, 2024 I look forward to our meeting in Toronto, On, Canada. See you there!`
-  > Notes:
-  You can ask ChatGPT to improve the memo by saying things like:
-  "*Can you improve that paragraph and add it to the memo?*"
-  or, just use natural language like:
-  "*Write the memo dated Feb. 1, 2024, to Mr. Bill Smith, It was very nice to meet you Bill in Miami last week. I hope we can chat on the phone soon.*"
+    Vítejte v: [title].
+    Napište: `/memo`, abyste si to vyzkoušeli,
+    nebo přidejte další detaily:
+    `/memo 15. ledna 2024 Těším se na naše setkání v Torontu, Ontario, Kanada. Uvidíme se tam!`
+    > Poznámky:  
+    ChatGPT může memorandum vylepšit, např.:  
+    "*Můžeš vylepšit ten odstavec a přidat ho do memoranda?*"  
+    nebo prostě řekněte:  
+    "*Napiš memorandum datované 1. února 2024 panu Billu Smithovi: Bylo velmi příjemné se minulý týden setkat v Miami. Doufám, že si brzy zavoláme.*"
 
-# Prompt user for date of memo
+# Vyžádej od uživatele datum memoranda
 memo_date:
-  - User to enter any date in any format.
-  # If no date specified by user, use default value.
-  - default_date: December 8, 2023
+  - Uživatel zadá libovolné datum v libovolném formátu.
+  # Pokud datum nezadá, použij výchozí hodnotu.
+  - default_date: 8. prosince 2023
 
-# Display memo instructions.
+# Zobraz instrukce k memorandu
 display_memo:
-  - Prompt user for date of memo - `memo_date`.
-  - Display images in `[alt text](image_url)` Markdown syntax.
-  - Replace placeholders with values.
-  - Replace [memo_date] with date from user or use `default_date`.
-  - Display Markdown section `memo` to user.
-  - Trigger: '/memo'
+  - Vyžádej od uživatele datum memoranda – `memo_date`.
+  - Obrázky zobrazuj v syntaxi Markdown `[alt text](image_url)`.
+  - Nahraď zástupné symboly hodnotami.
+  - Nahraď [memo_date] datem od uživatele nebo `default_date`.
+  - Uživatelovi zobraz sekci Markdown `memo`.
+  - Spouštěč: `/memo`
 
-# Markdown section `memo`
+# Markdown sekce `memo`
 :::memo
 
 ![](https://i.aimarkdown.org/easy-memo-logo.jpg)
 
 ---
-## Memo
+## Memorandum
 **[company]**
 
 [memo_date]
 
-Dear Sam:
+Vážený Same,
 
-It was nice to meet you on last week at the MIT meeting.
-Sincerely,
+bylo příjemné se minulý týden setkat na setkání MIT.  
+S pozdravem,
 
- [author]
+[author]
 
- Website: [company_url]
+Web: [company_url]
 :::
-
-
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzU1NjEyLC0xNzQ4MDMyNjkzXX0=
+eyJoaXN0b3J5IjpbMTMzMjkyODc1OSwtMzIzNTU2MTIsLTE3ND
+gwMzI2OTNdfQ==
 -->
