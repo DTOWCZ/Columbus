@@ -1,11 +1,6 @@
 
 ## 📝 Easy Memo Example
 
-### AImarkdown Script Installation Notes
-
-1.  ✅  **ChatGPT 4**: copy and paste into Chat
-2.  ✅  **ChatGPT Builder**: In  `Configuration|Instructions`  add "_AI to follow these instructions:_", then copy and paste
-3.  ❌  **ChatGPT Builder with API Actions**: set up of  _Actions_  and knowledge of API calls required.
 
 ### Screenshot
 
@@ -95,5 +90,6 @@ Sincerely,
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDgwMzI2OTNdfQ==
+eyJoaXN0b3J5IjpbLTE2MjkzOTQ4MjYsLTE3NDgwMzI2OTNdfQ
+==
 -->
