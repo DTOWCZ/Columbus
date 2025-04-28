@@ -1,12 +1,8 @@
 
 ## 📝 Response Dial
-### Screenshot
-## ![](https://i.aimarkdown.org/responsedial-400.jpg)
-
 ### Markdown Code
-
 ```yaml
-title: AImarkdown - Ovladač délky odpovědi
+title: Response Dial - Ovladač délky odpovědi
 version: 0.6
 author: Rob McCormack
 
@@ -86,6 +82,6 @@ Určením délky i hloubky přizpůsobíš odpověď svým potřebám.
 :::
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2MjMzMjM1LC0yMDMyNDE2MDk2LC0xMj
-M3MzMwMzFdfQ==
+eyJoaXN0b3J5IjpbLTE3NTgxNTE2MDMsNjE2MjMzMjM1LC0yMD
+MyNDE2MDk2LC0xMjM3MzMwMzFdfQ==
 -->
