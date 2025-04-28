@@ -74,7 +74,7 @@
 
 **Q: Rozdíl Plugin vs API?**
 > API je obecné rozhraní, plugin je napojení agenta na konkrétní funkci v API (musí být zaregistrován v Columbus).
-> API musí být zaregistrováno v Azure u HQpro
+> API vyžaduje IT podporu a projekt musí být zaregistrován v Azure z důvodu bezpečnosti
 
 
 ## 🎓 Závěr
@@ -86,6 +86,6 @@
   - https://github.com/AImarkdown/main/tree/main/examples
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDA1MDMzMCwxMDYzNjM3MzMsMjAzOD
+eyJoaXN0b3J5IjpbMTY2NDc3NjYwMSwxMDYzNjM3MzMsMjAzOD
 kwMTI0Ml19
 -->
