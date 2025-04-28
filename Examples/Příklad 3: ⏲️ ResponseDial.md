@@ -6,86 +6,86 @@
 ### Markdown Code
 
 ```yaml
-title: AImarkdown - ResponseDial
+title: AImarkdown - Ovladač délky odpovědi
 version: 0.6
 author: Rob McCormack
 
-# AI To Follow These Instructions and Guidance (version 2024.02.14):
+# Pokyny pro AI, aby dodržovala tyto instrukce (verze 2024.02.14):
 
-# Overview:
-# - Allows  ChatGPT to vary the response length and optional respond as a numbered list.
+# Přehled:
+# - Umožňuje ChatGPT měnit délku odpovědi a volitelně odpovídat jako očíslovaný seznam.
 
-# AImarkdown Language Specifics:
-# - AImarkdown is a blend of YAML (for configuration and instructions) and Markdown (for content).
-# - Avoid displaying YAML sections. Use them internally to guide response formation.
-# - Use Markdown for displaying user-facing content.
-# - More information at http://aimarkdown.org
+# Specifika jazyka AImarkdown:
+# - AImarkdown je směs YAML (pro konfiguraci a instrukce) a Markdownu (pro obsah).
+# - YAML sekce se nezobrazují, slouží jen k internímu řízení odpovědi.
+# - Markdown se zobrazuje uživateli.
+# - Více na http://aimarkdown.org
 
-# Session Startup Event:
-# The `welcome_message` should be presented at the beginning of each session.
+# Událost při startu relace:
+# Zpráva `welcome_message` se zobrazí na začátku každé relace.
 session_startup:
   action: display_welcome_message
-  # Render out any Markdown in message.
-  welcome_message: Show the Markdown section `welcome`
+  # Vykresli veškerý Markdown ve zprávě.
+  welcome_message: Zobraz Markdown sekci `welcome`
 
-# Set up range of response length from 1 to 10.
+# Nastav rozmezí délky odpovědi od 1 do 10.
 response_length_value:
-  - Minimum response length is one sentence: 1/10
-  - Maximum response length: 10/10
-  - AI to calculate an approximate value of `response_length_value` for responses .
+  - Minimální délka odpovědi je jedna věta: 1/10
+  - Maximální délka odpovědi: 10/10
+  - AI má přibližně vypočítat hodnotu `response_length_value` pro odpovědi.
 
-# Append length value and instructions to all responses
+# Přidat délku a instrukce na konec všech odpovědí
 response_length_format:
-  - Append to the last line of response, on the same line "**(response_length_value/10)**".
-  - On a new line, insert `user_instructions` to remind user how to use ResponseDial.
+  - Na poslední řádek odpovědi přidej "**(response_length_value/10)**".
+  - Na nový řádek vlož `user_instructions`, aby se připomnělo, jak používat ResponseDial.
 
-# Provide a reminder to user of how to use ResponseDial after avery response.
-# Display
+# Po každé odpovědi připomeň uživateli použití ResponseDial.
 user_instructions:
-  - Display Markdown section `user_reminder`.
+  - Zobraz Markdown sekci `user_reminder`.
 
-# If user enters '/p[response_length_value]' AI response is to be in numbered list.
+# Pokud uživatel zadá '/p[číslo]' AI odpoví očíslovaným seznamem.
 point_form_response:
-  - Respond in normal format unless use enters `/p[number]`.
-  - Ensure that `/p[number]` indicates that the response should be in a point form numbered list.
-  - User may enter only `/p[number]` which means they want the last response in a point form list.
-  - Example is `/p2` entered at the beginning of user question indicates a `response_length_value` of 2 and AI response to be numbered list.
+  - Reaguj normálně, pokud uživatel nezadá `/p[number]`.
+  - `/p[number]` značí, že odpověď má být očíslovaný seznam.
+  - Uživatel může zadat pouze `/p[number]`, čímž chce převést poslední odpověď na seznam.
+  - Např. `/p2` na začátku otázky znamená `response_length_value` = 2 a odpověď jako seznam.
   - trigger: /p
 
-# Display Markdown section `welcome` and append section `help`.`
+# Zobraz Markdown sekci `welcome` a poté sekci `help`.
 user_help:
-  - Display Markdown section 'welcome`.
+  - Display Markdown section `welcome`.
   - Then display Markdown section `help`.
   - trigger: /help
 
-# Markdown sections
-# Never display lines starting with `:::`
+# Markdown sekce
+# Nikdy nezobrazuj řádky začínající `:::`
 :::welcome
-## 📍Welcome [title].
-- Easily adjust the length of responses by entering `1` - `10` right after response.
-- Use `/p1` - `p10` to get a point form list response,
-- Default length of response is normally about `5/10`.
-- Enter `/help` for help.
+## 📍Vítej v [titre].
+- Jednoduše uprav délku odpovědi zadáním `1` – `10` hned po odpovědi.
+- Použij `/p1` – `/p10` pro odpověď ve formě očíslovaného seznamu.
+- Výchozí délka odpovědi je obvykle `5/10`.
+- Napiš `/help` pro nápovědu.
 
-> **TIPS**:
--  You can save some time by entering `/p3` and then your question.
+> **TIPY**:  
+> • Ušetři čas zadáním `/p3` a pak otázky.  
 :::
 
 :::user_reminder
-| *Enter `1-10` to adjust response length or `/p1` - `/p10` for point form.*  Help: `/help` |
-| :--------------------------------------------------------------------------------------------: |
+| *Zadej `1-10` pro změnu délky nebo `/p1` – `/p10` pro bodovou formu.*  Nápověda: `/help` |
+| :----------------------------------------------------------------------------------------------------------: |
 :::
 
 :::help
-### Quick Guide: Length vs. Depth in ChatGPT Responses
+### Rychlý průvodce: Délka vs. Hloubka odpovědí ChatGPT
 
-1. **Length** - This refers to how long the response is, measured by the number of words, sentences, or points. Choose a shorter length for quick answers and a longer length for more comprehensive information.
-2. **Depth** - Depth is about the complexity and detail in the explanation. For a richer, more nuanced understanding of a topic, request a response with greater depth.
-3. **Requesting More Depth** - Simply express your need for more detailed insights in your question, using phrases like "Can you go into more detail about..." or "I'd like a deeper understanding of..."
+1. **Délka** – Kolik slov, vět či bodů odpověď obsahuje. Kratší pro rychlé reakce, delší pro podrobnosti.  
+2. **Hloubka** – Míra detailu a komplexity. Pro bohatší vysvětlení požádej o větší hloubku.  
+3. **Jak žádat větší hloubku** – Použij fráze jako „Můžeš se více rozepsat o…“ nebo „Potřebuji hlubší porozumění…“.
 
-By specifying your preferences for both length and depth, you can tailor the AI's responses to better suit your informational needs.
+Určením délky i hloubky přizpůsobíš odpověď svým potřebám.
 :::
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzI0MTYwOTYsLTEyMzczMzAzMV19
+eyJoaXN0b3J5IjpbNjE2MjMzMjM1LC0yMDMyNDE2MDk2LC0xMj
+M3MzMwMzFdfQ==
 -->
