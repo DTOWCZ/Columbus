@@ -19,9 +19,11 @@
 	- Zvolíme např. **Basic Agent Template**
 
 3. ### **Nastavení Basic Info**
-	- Vyplnit jméno (CZ + EN)
-	- Ikona + Popis služby
-	- Volitelně: Co-editing members
+	- Ikona (nepovinná)
+	- Jméno (CZ + EN)
+	- Popis služby (CZ + EN)
+	- Category  (zatím defaultně na Personal)
+	- Volitelně: Co-editing members ( pro spolupráci na AI Agentovi) 
 
 4. ### **Model a Prompt (Reply Settings)**
 	- Vybrat model (Gemini / GPT)
@@ -76,6 +78,6 @@
   - https://github.com/AImarkdown/main/tree/main/examples
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzg4NTM5NywxMDYzNjM3MzMsMjAzOD
+eyJoaXN0b3J5IjpbMTcxNjYyNjg3OCwxMDYzNjM3MzMsMjAzOD
 kwMTI0Ml19
 -->
