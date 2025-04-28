@@ -4,7 +4,7 @@
 **Co je AI agent?**
 > AI agent je digitální asistent, který reaguje na dotazy nebo úkoly uživatele na základě předem nastaveného promptu, znalostní báze nebo přídavného pluginu. Může vyhledávat informace, plnit opakované úkoly a rozhodovat se na základě logiky. 
 
-> Použítí: jako vyhledávač informací na webu, v interních dokumentech, pomocník na HR dotazy, automatický vyplňovač formulářů, generování fonrmulovaného textu nebo pro kontrolor dat.
+> Použítí: jako vyhledávač informací na webu, v interních dokumentech, pomocník na HR dotazy, automatický vyplňovač formulářů, generování fonrmulovaného textu nebo pro kontrolu dat.
 
 
 ## 🤖 **Začneme tvorbou vlastního agenta**
@@ -35,7 +35,8 @@
 	> Př.: směrnice, tabulky, manuály
 
 6. ### **Agent Tools (volitelné)**
-	- Ukázat co je Plugin a Code Interpreter (jen zmínit)
+	- Ukázat co je Plugin a Code Interpreter (zmínit možnosti spuštění python kódu v pozadí a díky toho generovat grafy atd..)
+	- 
 	> Plugin = napojení na API (např. docházka), Code Interpreter = výpočty, grafy
 
 7. ### **Advanced Toolkit (jen zmínit)**
@@ -78,6 +79,6 @@
   - https://github.com/AImarkdown/main/tree/main/examples
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTE1MzAxMDksMTA2MzYzNzMzLDIwMz
+eyJoaXN0b3J5IjpbLTE1MjIzMjIwNzAsMTA2MzYzNzMzLDIwMz
 g5MDEyNDJdfQ==
 -->
