@@ -56,6 +56,7 @@
 ## 🌐 **Publikace a sdílení agenta**
 - Rozdíl mezi **Draft** a **Publish**
 - Jak udělit přístup dalším uživatelům (Request Access)
+	- Formulář pro žádost o povolení: https://forms.office.com/pages/responsepage.aspx?id=4JUH3sDX6065u7yU2JgNO-P1J_OgjchCmLU73Tef495UN1IyOEZLSDlGTFRBTFZGQU8wVkkxM1JCWiQlQCN0PWcu&route=shorturl
 - Ukázat, kde se agent objeví v levém menu
 
 
@@ -82,6 +83,6 @@
   - https://github.com/AImarkdown/main/tree/main/examples
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4NjcxMDUxLDEwNjM2MzczMywyMDM4OT
-AxMjQyXX0=
+eyJoaXN0b3J5IjpbLTEwOTc4NTEyOTQsMTA2MzYzNzMzLDIwMz
+g5MDEyNDJdfQ==
 -->
