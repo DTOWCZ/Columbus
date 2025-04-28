@@ -66,7 +66,7 @@ display_memo:
 # Markdown sekce `memo`
 :::memo
 
-![](https://i.aimarkdown.org/easy-memo-logo.jpg)
+![](https://www.wistron.cz/wp-content/uploads/2022/10/logo-light.svg)
 
 ---
 ## Memorandum
@@ -85,6 +85,6 @@ Web: [company_url]
 :::
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjkyODc1OSwtMzIzNTU2MTIsLTE3ND
-gwMzI2OTNdfQ==
+eyJoaXN0b3J5IjpbLTIxMzM0NzE3MDEsMTMzMjkyODc1OSwtMz
+IzNTU2MTIsLTE3NDgwMzI2OTNdfQ==
 -->
