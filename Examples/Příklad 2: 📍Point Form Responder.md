@@ -1,11 +1,6 @@
 
 ## 📍Point Form Responder
 
-> App compatibility:
-> 
-> -   **ChatGPT 4**: copy and paste into Chat
-> -   **ChatGPT Builder**: In  `Configuration|Instructions`  add "_AI to follow these instructions:_" then then copy and paste
-> -   ONLY  **ChatGPT Builder**  since API Actions required
 
 ### Sample Chat Session
 
@@ -63,5 +58,5 @@ point_form_format:
   - trigger: /p
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTY4MDU4XX0=
+eyJoaXN0b3J5IjpbLTM5NzY4NDQ0OCwxMDM1NjgwNThdfQ==
 -->
