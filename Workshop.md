@@ -2,7 +2,8 @@
 # Agent Builder Workshop
 ## 👨‍🏫 Úvod
 **Co je AI agent?**
-> AI agent je digitální asistent, který reaguje na dotazy nebo úkoly uživatele na základě předem nastaveného promptu a znalostní báze. Může vyhledávat informace, plnit opakované úkoly a rozhodovat se na základě logiky. 
+> AI agent je digitální asistent, který reaguje na dotazy nebo úkoly uživatele na základě předem nastaveného promptu, znalostní báze. Může vyhledávat informace, plnit opakované úkoly a rozhodovat se na základě logiky. 
+
 > Použítí: jako vyhledávač interních dokumentů, pomocník na HR dotazy, automatický vyplňovač formulářů nebo kontrolor dat.
 
 
@@ -77,6 +78,6 @@
   - https://github.com/AImarkdown/main/tree/main/examples
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjY5MTk2LDEwNjM2MzczMywyMDM4OT
-AxMjQyXX0=
+eyJoaXN0b3J5IjpbLTE0ODAzMTk5OTksMTA2MzYzNzMzLDIwMz
+g5MDEyNDJdfQ==
 -->
