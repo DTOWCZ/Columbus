@@ -33,7 +33,9 @@
 	> Př.: "Jsi HR asistent, pomáháš odpovídat na otázky o docházce podle interních pravidel."
 
 5. ### **Knowledge Reference (volitelné)**
-	- Ukázat možnost nahrání znalostní báze (např. PDF, .txt)
+	- Ukázat možnost nahrání znalostní báze
+		- Interní  (spravované Columbus týmem)
+		- Externí (max 10 souboru)
 	> Př.: směrnice, tabulky, manuály
 
 6. ### **Agent Tools (volitelné)**
@@ -78,6 +80,6 @@
   - https://github.com/AImarkdown/main/tree/main/examples
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExMzI1MDQ4LDEwNjM2MzczMywyMDM4OT
-AxMjQyXX0=
+eyJoaXN0b3J5IjpbMTYwODI4NjQ0MCwxMDYzNjM3MzMsMjAzOD
+kwMTI0Ml19
 -->
