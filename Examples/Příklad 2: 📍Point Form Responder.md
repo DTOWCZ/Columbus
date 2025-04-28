@@ -1,16 +1,9 @@
 
 ## 📍Point Form Responder
-
-
-### Sample Chat Session
-
--   See it in action:  [Shared Chat Session](https://chat.openai.com/share/f9b2ae08-295a-42af-a13e-aaf086444592)
-
 ### Screenshot
-
 ## ![](https://i.aimarkdown.org/point-form-screenshot.jpg)
 
-### AImarkdown Code
+### Markdown Code
 
 ```yaml
 title: AImarkdown - Point Form Responder
@@ -58,5 +51,5 @@ point_form_format:
   - trigger: /p
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzY4NDQ0OCwxMDM1NjgwNThdfQ==
+eyJoaXN0b3J5IjpbMTI1MDk2NjU0OSwxMDM1NjgwNThdfQ==
 -->
