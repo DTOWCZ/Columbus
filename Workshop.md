@@ -54,11 +54,11 @@
 
 
 ## 🌐 **Publikace a sdílení agenta**
-- Rozdíl mezi **Draft** a **Publish**
+- Rozdíl **Draft** a **Publish**
 - Jak udělit přístup dalším uživatelům (Request Access): 
 	- https://forms.office.com/pages/responsepage.aspx?id=4JUH3sDX6065u7yU2JgNO-P1J_OgjchCmLU73Tef495UN1IyOEZLSDlGTFRBTFZGQU8wVkkxM1JCWiQlQCN0PWcu&route=shorturl
-- Ukázat, kde se agent objeví v levém menu 
-- Ukazat kde najít hlavní web Columbus:  
+- Ukázat, kde se agent objeví po **Publish** vytvoření.
+- Ukázat, kde najít hlavní web Columbus:  
 	- https://wistron.sharepoint.com/sites/PoweredbyColumbus/SitePages/en/0.0.0_Home.aspx
 
 
@@ -74,6 +74,7 @@
 
 **Q: Rozdíl Plugin vs API?**
 > API je obecné rozhraní, plugin je napojení agenta na konkrétní funkci v API (musí být zaregistrován v Columbus).
+> API musí být zaregistrováno v Azure u HQpro
 
 
 ## 🎓 Závěr
@@ -85,6 +86,6 @@
   - https://github.com/AImarkdown/main/tree/main/examples
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODYyMjg3MjksMTA2MzYzNzMzLDIwMz
-g5MDEyNDJdfQ==
+eyJoaXN0b3J5IjpbMTUyNDA1MDMzMCwxMDYzNjM3MzMsMjAzOD
+kwMTI0Ml19
 -->
