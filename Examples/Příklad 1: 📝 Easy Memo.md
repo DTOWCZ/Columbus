@@ -1,10 +1,6 @@
 
 ## 📝 Easy Memo Example
-### Screenshot
-## ![](https://i.aimarkdown.org/easy-memo-screenshot.jpg)
-
 ### Markdown Code
-
 ```yaml
 title: 📝 Easy Memo - Základní příklad AImarkdown
 author: J. Jones
@@ -85,6 +81,6 @@ Web: [company_url]
 :::
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjkyODc1OSwxMzMyOTI4NzU5LC0zMj
-M1NTYxMiwtMTc0ODAzMjY5M119
+eyJoaXN0b3J5IjpbLTE0MzA1NjA0MTMsMTMzMjkyODc1OSwxMz
+MyOTI4NzU5LC0zMjM1NTYxMiwtMTc0ODAzMjY5M119
 -->
