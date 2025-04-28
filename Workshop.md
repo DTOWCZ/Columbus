@@ -35,12 +35,11 @@
 	> Př.: směrnice, tabulky, manuály
 
 6. ### **Agent Tools (volitelné)**
-	- **Code Interpreter** (zmínit možnosti spuštění python kódu v pozadí a díky toho generovat grafy atd..)
-	- **Capture Web Content** (nová funkce pro taháni informací z internetu -   pouze ověřené weby jako .gov nebo .org)
+	- **Code Interpreter** → možnosti spuštění python kódu v pozadí a díky toho generovat grafy atd..
+	- **Capture Web Content** → nová funkce pro taháni informací z internetu -   pouze ověřené weby jako .gov nebo .org
 	- **Plugin** → oficiálně schválené  a udržované pluginy od týmu Columbus (zatím pouze vyhledávání na internetu)
-	- **Logic DB** + **API** nastavení (pro pokročilé)
-	> Logic DB = pravidla, např. "neobvyklé přihlášení = riziko"
-
+	- **Logic DB** → konfigurace specifických pravidel a podmínek, pro rozhodování AI Agenta
+	- **API** → nastavení (pro pokročilé)
 
 
 ## ⚖️ **Testování agenta (Agent Lab)**
@@ -77,6 +76,6 @@
   - https://github.com/AImarkdown/main/tree/main/examples
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjg2ODcyOTAsMTA2MzYzNzMzLDIwMz
-g5MDEyNDJdfQ==
+eyJoaXN0b3J5IjpbMTMzNzg4NTM5NywxMDYzNjM3MzMsMjAzOD
+kwMTI0Ml19
 -->
