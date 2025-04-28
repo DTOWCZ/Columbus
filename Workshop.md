@@ -1,7 +1,6 @@
 [![enter image description here](https://www.wistron.cz/wp-content/uploads/2022/10/logo-light.svg)](http://www.wistron.cz)
-# Agent Builder Workshop
-## 👨‍🏫 Úvod
-### Workshop: Vytvoř si svého AI agenta
+# Workshop: Agent Builder
+## 👨‍🏫 Úvod → Vytvoř si svého AI agenta
 **Co je AI agent?**
 > AI agent je digitální asistent, který reaguje na dotazy nebo úkoly uživatele na základě předem nastaveného promptu, znalostní báze nebo přídavného pluginu. Může vyhledávat informace, plnit opakované úkoly a rozhodovat se na základě logiky. 
 
@@ -80,7 +79,7 @@
 
 ## 🎓 Závěr
 - **Návody a zdroje:**
-  - 
+  - https://github.com/DTOWCZ/Columbus
   - https://wistron.sharepoint.com/sites/PoweredbyColumbus
 	  - [Agent Builder - English User Manual.pdf](https://wistron.sharepoint.com/sites/PoweredbyColumbus/SiteAssets/Forms/AllItems.aspx?id=/sites/PoweredbyColumbus/SiteAssets/%E6%AA%94%E6%A1%88%E9%80%A3%E7%B5%90_En/Agent%20Builder%20%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8A_20250325_En.pdf&parent=/sites/PoweredbyColumbus/SiteAssets/%E6%AA%94%E6%A1%88%E9%80%A3%E7%B5%90_En&p=true&ga=1)
   - https://stackedit.io/app#
@@ -90,6 +89,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTgzMjg5MjMsMTA2MzYzNzMzLDIwMz
-g5MDEyNDJdfQ==
+eyJoaXN0b3J5IjpbMTU3OTk5NTc5OSwxMDYzNjM3MzMsMjAzOD
+kwMTI0Ml19
 -->
