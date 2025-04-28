@@ -35,7 +35,7 @@
 5. ### **Knowledge Reference (volitelné)**
 	- Ukázat možnost nahrání znalostní báze
 		- Interní  (spravované Columbus týmem)
-		- Externí (max 10 souboru)
+		- Externí (volitelných 10 souborů)
 	> Př.: směrnice, tabulky, manuály
 
 6. ### **Agent Tools (volitelné)**
@@ -48,7 +48,9 @@
 
 ## ⚖️ **Testování agenta (Agent Lab)**
 - Ukázat, jak napsat otázku a jak agent odpovídá
+	- probrat Markdown
 - Tokeny, historie dotazů, ladění odpovědí
+	- (Prompt Tokens  1146  | Completion Tokens  32  | Total Tokens  1178  )
 
 
 ## 🌐 **Publikace a sdílení agenta**
@@ -80,6 +82,6 @@
   - https://github.com/AImarkdown/main/tree/main/examples
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODI4NjQ0MCwxMDYzNjM3MzMsMjAzOD
-kwMTI0Ml19
+eyJoaXN0b3J5IjpbMjU4NjcxMDUxLDEwNjM2MzczMywyMDM4OT
+AxMjQyXX0=
 -->
