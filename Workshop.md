@@ -1,6 +1,7 @@
 [![enter image description here](https://www.wistron.cz/wp-content/uploads/2022/10/logo-light.svg)](http://www.wistron.cz)
 # Agent Builder Workshop
 ## 👨‍🏫 Úvod
+
 **Co je AI agent?**
 > AI agent je digitální asistent, který reaguje na dotazy nebo úkoly uživatele na základě předem nastaveného promptu, znalostní báze nebo přídavného pluginu. Může vyhledávat informace, plnit opakované úkoly a rozhodovat se na základě logiky. 
 
@@ -74,7 +75,7 @@
 
 **Q: Rozdíl Plugin vs API?**
 > API je obecné rozhraní, plugin je napojení agenta na konkrétní funkci v API (musí být zaregistrován v Columbus).
-> API vyžaduje IT podporu (form ITRS)   a projekt musí být vytvořen v Azure App registrations
+> API vyžaduje IT podporu a projekt musí být vytvořen v Azure App registrations
 
 
 ## 🎓 Závěr
@@ -86,6 +87,6 @@
   - https://github.com/AImarkdown/main/tree/main/examples
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1Mzk2Njc0MSwxMDYzNjM3MzMsMjAzOD
+eyJoaXN0b3J5IjpbLTgxOTY5MTk5OCwxMDYzNjM3MzMsMjAzOD
 kwMTI0Ml19
 -->
