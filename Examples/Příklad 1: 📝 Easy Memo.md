@@ -1,12 +1,9 @@
 
 ## 📝 Easy Memo Example
-
-
 ### Screenshot
-
 ## ![](https://i.aimarkdown.org/easy-memo-screenshot.jpg)
 
-### AImarkdown Code
+### Markdown Code
 
 ```yaml
 title: 📝 Easy Memo - Basic Example of AImarkdown
@@ -90,6 +87,5 @@ Sincerely,
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjkzOTQ4MjYsLTE3NDgwMzI2OTNdfQ
-==
+eyJoaXN0b3J5IjpbLTMyMzU1NjEyLC0xNzQ4MDMyNjkzXX0=
 -->
