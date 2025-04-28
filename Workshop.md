@@ -28,6 +28,8 @@
 4. ### **Reply Settings (Model a Prompt)**
 	- Vybrat model (Gemini / GPT)
 	> Gemini = Google, lepší pro tabulky; GPT = OpenAI, lepší pro přirozený jazyk
+	> Kontext do **128k tokenů** (cca 300+ stran textu).
+Kontext až **1M tokenů** (cca 3000+ str
 	- Ukázat pole pro prompt
 	- Použít Prompt Generator nebo napsat vlastní
 	> Př.: "Jsi HR asistent, pomáháš odpovídat na otázky o docházce podle interních pravidel."
@@ -89,6 +91,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTk5NTc5OSwxMDYzNjM3MzMsMjAzOD
-kwMTI0Ml19
+eyJoaXN0b3J5IjpbMTMwMzk0NzEyMywxNTc5OTk1Nzk5LDEwNj
+M2MzczMywyMDM4OTAxMjQyXX0=
 -->
