@@ -1,7 +1,7 @@
 [![enter image description here](https://www.wistron.cz/wp-content/uploads/2022/10/logo-light.svg)](http://www.wistron.cz)
 # Agent Builder Workshop
 ## 👨‍🏫 Úvod
-
+### Workshop: Vytvoř si svého AI agenta
 **Co je AI agent?**
 > AI agent je digitální asistent, který reaguje na dotazy nebo úkoly uživatele na základě předem nastaveného promptu, znalostní báze nebo přídavného pluginu. Může vyhledávat informace, plnit opakované úkoly a rozhodovat se na základě logiky. 
 
@@ -87,6 +87,6 @@
   - https://github.com/AImarkdown/main/tree/main/examples
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTY5MTk5OCwxMDYzNjM3MzMsMjAzOD
-kwMTI0Ml19
+eyJoaXN0b3J5IjpbODUyODcwNjU2LDEwNjM2MzczMywyMDM4OT
+AxMjQyXX0=
 -->
