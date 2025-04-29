@@ -44,7 +44,7 @@
 	- **Capture Web Content** → nová funkce pro taháni informací z internetu -   pouze ověřené weby jako .gov nebo .org
 	- **Plugin** → oficiálně schválené  a udržované pluginy od týmu Columbus (zatím pouze vyhledávání na internetu)
 	- **Logic DB** → konfigurace specifických pravidel a podmínek, pro rozhodování AI Agenta
-	- **API** → nastavení (pro pokročilé)
+	- **API** → nastavení (pro pokročilé) 
 
 
 ## ⚖️ **Testování agenta (Agent Lab)**
@@ -90,6 +90,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTI1MzAzMTcsMTU3OTk5NTc5OSwxMD
-YzNjM3MzMsMjAzODkwMTI0Ml19
+eyJoaXN0b3J5IjpbLTMzNTIwODY4MywtMTkxMjUzMDMxNywxNT
+c5OTk1Nzk5LDEwNjM2MzczMywyMDM4OTAxMjQyXX0=
 -->
