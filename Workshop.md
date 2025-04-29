@@ -82,7 +82,7 @@
 - **Návody a zdroje:**
   - https://github.com/DTOWCZ/Columbus
   - https://wistron.sharepoint.com/sites/PoweredbyColumbus
-	  - [Agent Builder - English User Manual.pdf](https://wistron.sharepoint.com/sites/PoweredbyColumbus/SiteAssets/Forms/AllItems.aspx?id=/sites/PoweredbyColumbus/SiteAssets/%E6%AA%94%E6%A1%88%E9%80%A3%E7%B5%90_En/Agent%20Builder%20%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8A_20250325_En.pdf&parent=/sites/PoweredbyColumbus/SiteAssets/%E6%AA%94%E6%A1%88%E9%80%A3%E7%B5%90_En&p=true&ga=1)
+	  - [Agent Builder - English User Manual.pdf](https://wistron.sharepoint.com/sites/PoweredbyColumbus/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FPoweredbyColumbus%2FSiteAssets%2F%E6%AA%94%E6%A1%88%E9%80%A3%E7%B5%90%5FEn%2FAgent%20Builder%20%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8A%5F20250325%5FEn%2Epdf&parent=%2Fsites%2FPoweredbyColumbus%2FSiteAssets%2F%E6%AA%94%E6%A1%88%E9%80%A3%E7%B5%90%5FEn&p=true&ga=1)
   - https://stackedit.io/app#
   - http://editor.md.ipandao.com/en.html
   - https://aimarkdown.org/
@@ -90,6 +90,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTIwODY4MywtMTkxMjUzMDMxNywxNT
+eyJoaXN0b3J5IjpbMTAwOTc4NTMxMSwtMTkxMjUzMDMxNywxNT
 c5OTk1Nzk5LDEwNjM2MzczMywyMDM4OTAxMjQyXX0=
 -->
