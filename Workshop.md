@@ -23,7 +23,7 @@
 	- Jméno (CZ + EN)
 	- Popis služby (CZ + EN)
 	- Category  (Personal)
-	- Co-editing members (volitelně pro spolupráci na AI Agentovi) 
+	- Co-editing members (volitelně pro spolupráci až 10 lidi na AI Agentovi) 
 
 4. ### **Reply Settings (Model a Prompt)**
 	- Vybrat model (Gemini / GPT)
@@ -90,6 +90,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTc4NTMxMSwtMTkxMjUzMDMxNywxNT
-c5OTk1Nzk5LDEwNjM2MzczMywyMDM4OTAxMjQyXX0=
+eyJoaXN0b3J5IjpbLTE4NTg1MDgzNjMsMTAwOTc4NTMxMSwtMT
+kxMjUzMDMxNywxNTc5OTk1Nzk5LDEwNjM2MzczMywyMDM4OTAx
+MjQyXX0=
 -->
