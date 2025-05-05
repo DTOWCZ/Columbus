@@ -83,15 +83,15 @@
   - Všechny informace ke stažení: https://github.com/DTOWCZ/Columbus
   - Hlavní Columbus SharePoint: https://wistron.sharepoint.com/sites/PoweredbyColumbus
 	  - [Agent Builder - English User Manual.pdf](https://wistron.sharepoint.com/sites/PoweredbyColumbus/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FPoweredbyColumbus%2FSiteAssets%2F%E6%AA%94%E6%A1%88%E9%80%A3%E7%B5%90%5FEn%2FAgent%20Builder%20%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8A%5F20250325%5FEn%2Epdf&parent=%2Fsites%2FPoweredbyColumbus%2FSiteAssets%2F%E6%AA%94%E6%A1%88%E9%80%A3%E7%B5%90%5FEn&p=true&ga=1)
-  - Aplikace pro úpravu promptu: 
+  - Aplikace pro přípravu promptu: 
 	  - https://stackedit.io/app#
 	  - http://editor.md.ipandao.com/en.html
-	  - https://aimarkdown.org/
-		  - https://github.com/AImarkdown/main/tree/main/examples
+  - Návody a tipy pro Markdown: https://aimarkdown.org/
+	  - https://github.com/AImarkdown/main/tree/main/examples
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDE3NjgxMiwtMTg1ODUwODM2MywxMD
+eyJoaXN0b3J5IjpbMTI0ODA5NDIzMCwtMTg1ODUwODM2MywxMD
 A5Nzg1MzExLC0xOTEyNTMwMzE3LDE1Nzk5OTU3OTksMTA2MzYz
 NzMzLDIwMzg5MDEyNDJdfQ==
 -->
