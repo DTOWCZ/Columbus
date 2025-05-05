@@ -2,9 +2,9 @@
 # Workshop: Agent Builder
 ## 👨‍🏫 Úvod → Vytvoř si svého AI agenta
 **Co je AI agent?**
-> AI agent je digitální asistent, který reaguje na dotazy nebo úkoly uživatele na základě předem nastaveného promptu, znalostní báze nebo přídavného pluginu. Může vyhledávat informace, plnit opakované úkoly a rozhodovat se na základě logiky. 
+> AI agent je **digitální asistent, který reaguje na dotazy nebo úkoly uživatele** na základě předem nastaveného promptu, znalostní báze nebo přídavného pluginu. Může vyhledávat informace, plnit opakované úkoly a rozhodovat se na základě logiky. 
 
-> Použítí: jako vyhledávač informací na webu, v interních dokumentech, pomocník na HR dotazy, automatický vyplňovač formulářů, generování fonrmulovaného textu nebo pro kontrolu dat.
+> **Použítí:** jako vyhledávač informací na webu, v interních dokumentech, pomocník na HR dotazy, automatický vyplňovač formulářů, generování fonrmulovaného textu nebo pro kontrolu dat.
 
 
 ## 🤖 **Začneme tvorbou vlastního agenta**
@@ -15,8 +15,8 @@
 
 2. ### **Volba šablony**
 	- Rozdíl mezi Blank / Basic / Advanced
-	> Blank = od nuly, Basic = prompt-only, Advanced = prompt + API/pluginy
-	- Zvolíme např. **Basic Agent Template**
+	> Blank = od nuly; Basic = prompt-only; Advanced = prompt + API/pluginy
+	- Zvolte např. **Basic Agent Template**
 
 3. ### **Nastavení Basic Info**
 	- Ikona (nepovinná)
@@ -90,7 +90,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjQyMjk0MCwtMTg1ODUwODM2MywxMD
-A5Nzg1MzExLC0xOTEyNTMwMzE3LDE1Nzk5OTU3OTksMTA2MzYz
-NzMzLDIwMzg5MDEyNDJdfQ==
+eyJoaXN0b3J5IjpbLTE2NDc3OTc2MTQsLTE4NTg1MDgzNjMsMT
+AwOTc4NTMxMSwtMTkxMjUzMDMxNywxNTc5OTk1Nzk5LDEwNjM2
+MzczMywyMDM4OTAxMjQyXX0=
 -->
