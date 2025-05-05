@@ -50,3 +50,6 @@ AI assistant that audits, refines, or creates fresh prompts for LLMs, leverages 
 - Include test examples?  
 - Insert evaluation metrics (BLEU, ROUGE…)?  
 - Enable automatic token-length check?  
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwNTYzODMyMjBdfQ==
+-->
